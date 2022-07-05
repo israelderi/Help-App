@@ -1,0 +1,56 @@
+.App {
+  text-align: center;
+}
+body{
+  background-color: azure;
+}
+.help{
+  margin: 100px;
+  width: 400px;
+  height: 200px;
+  font-size: 70px;
+  border-radius: 15px;
+}
+.selectStyle{
+  font-size: 30px;
+  width: 350px;
+  height: 60px;
+  border-radius: 15px;
+  color: blue;
+  text-align: center;
+}
+.helphelpselect{
+  border: 1px solid red;
+ height: 60px;
+ width: 100px ;
+}
+.inpStyle{
+  height: 60px;
+  width: 400px;
+  margin-left: auto;
+  margin-right: auto;
+  color: blue;
+  font-size: 30px;
+  border-radius: 10px;
+}
+.homeTitel{
+  color: rgb(53, 52, 52);
+  font-size: 80px;
+  margin: 30px;
+}
+#errorPassword, #errorName{
+  color: red;
+}
+.help2{
+  height: 180px;
+  width: 400px;
+  margin-left: auto;
+  margin-right: auto;
+  color: black;
+  font-size: 30px;
+  border-radius: 10px;
+}
+.buttonCancel{
+  height: 50px;
+  width: 120px;
+}
